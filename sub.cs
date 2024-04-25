@@ -1,4 +1,4 @@
-public sub(int a, int b)
+print sub (int a, int b)
 {
-  int d = a - b;
+	int d = a - b;
 }
